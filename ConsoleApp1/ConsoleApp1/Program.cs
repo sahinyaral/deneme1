@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             //test 2
             //test 3 commit yapmasaydık
+
+            //sorunsuz push
         }
     }
 }
